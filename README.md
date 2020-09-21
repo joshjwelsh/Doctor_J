@@ -1,4 +1,4 @@
 # Doctor_J
-Spotify recommendations bot
+Spotify Manager bot
 
-Currently be used to analyze spotify playlists and group them by similar levels. 
+The purpose of this bot is create and manage playlists. This repo also serves as a place for me to analyze my spotify metadata.
